@@ -3,7 +3,7 @@
     internal class Program
     {
 
-        //Returning Functions from Functions
+        //Example 2:Returning Functions from Functions
         static int Add(int a, int b) => a + b;
         static int Subtract(int a, int b) => a - b;
 
